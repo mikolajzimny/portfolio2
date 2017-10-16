@@ -472,17 +472,42 @@ h6,
 #menu-b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-r H3 {
-  text-align: right;
-}
-#msg-box5-r P {
-  text-align: right;
-}
 #header1-a .mbr-section-lead {
-  text-align: left;
+  text-align: center;
 }
 #header1-a .mbr-section-title {
+  text-align: center;
+}
+#msg-box5-z H3 {
+  color: #efefef;
+}
+#msg-box5-z P {
+  color: #c1c1c1;
+}
+#msg-box5-11 H3 {
+  color: #28324e;
   text-align: left;
+}
+#msg-box5-11 P {
+  color: #7c706b;
+}
+#msg-box5-r H3 {
+  text-align: left;
+}
+#msg-box5-r P {
+  text-align: left;
+}
+#features3-16 H5 {
+  font-size: 18px;
+}
+#features3-17 H5 {
+  font-size: 18px;
+}
+#features3-18 H5 {
+  font-size: 18px;
+}
+#features3-19 H5 {
+  font-size: 18px;
 }
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
@@ -792,4 +817,69 @@ h6,
 #menu-g .link[aria-expanded="true"],
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#menu-12 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-12 .navbar-caption {
+  color: #ffffff;
+}
+#menu-12 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-12 .close-icon::before,
+#menu-12 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-12 .link,
+#menu-12 .dropdown-item {
+  color: #ffffff;
+}
+#menu-12 .link {
+  font-size: 1rem;
+}
+#menu-12 .dropdown-item,
+#menu-12 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-12 .link:hover,
+#menu-12 .dropdown-item:hover,
+#menu-12 .link:focus,
+#menu-12 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-12 .link[aria-expanded="true"],
+#menu-12 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-12 .nav-dropdown-sm .link:focus,
+#menu-12 .nav-dropdown-sm .link:hover,
+#menu-12 .nav-dropdown-sm .dropdown-item:focus,
+#menu-12 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-12 .navbar,
+#menu-12 .nav-dropdown-sm,
+#menu-12 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-12 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-12 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-12 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-12 .bg-color.transparent.opened .link:hover,
+#menu-12 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-12 .link[aria-expanded="true"],
+#menu-12 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#msg-box8-13 .mbr-section-title,
+#msg-box8-13 p {
+  color: #fff;
 }
