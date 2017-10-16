@@ -472,6 +472,12 @@ h6,
 #menu-b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-w .mbr-section-title {
+  color: #28324e;
+}
+#header1-w .mbr-section-lead {
+  color: #28324e;
+}
 #header1-a .mbr-section-lead {
   text-align: center;
 }
